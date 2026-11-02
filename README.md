@@ -119,9 +119,9 @@ A college project involving the design and construction of a functional wooden s
 
 ## 📊 GitHub Stats
 
-![Uday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UB-dotcom&show_icons=true&theme=tokyonight)
+![Uday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UB-VEYRO&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UB-dotcom&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UB-VEYRO&layout=compact&theme=tokyonight)
 
 ---
 
@@ -129,15 +129,15 @@ A college project involving the design and construction of a functional wooden s
 
 🚀 **Check out my personal portfolio:**
 
-👉 https://ub-dotcom.github.io/Portfolio-/
+👉 https://ub-veyro.github.io/Portfolio-/
 
 ---
 
 ## 🔗 Connect With Me
 
-🌐 **Portfolio:** https://ub-dotcom.github.io/Portfolio-/
+🌐 **Portfolio:** https://ub-veyro.github.io/Portfolio-/
 
-💻 **GitHub:** https://github.com/UB-dotcom
+💻 **GitHub:** https://github.com/UB-VEYRO
 
 📧 **Email:** Add your professional email here
 
