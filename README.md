@@ -1,203 +1,271 @@
-# 👋 Hi, I'm Uday Behra
+<!--
+  UB-VEYRO | GitHub Profile README
+  Profile repository: UB-VEYRO/UB-VEYRO
+-->
 
-<h3 align="center">💻 Developer | 🐍 Python Programmer | 🤖 AI/ML Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <b>Learning • Building • Innovating</b>
-  <br/>
-  Exploring technology and building solutions that make a difference.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,45:142A55,100:703BCE&height=210&section=header&text=UB-VEYRO&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20INNOVATE%20%E2%80%A2%20EVOLVE&descSize=16&descAlignY=58" width="100%" alt="UB-VEYRO profile banner"/>
+
+# Hi, I'm Uday Behra 👋
+
+### BCA Student | Python Developer | Data Science & AI/ML Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=9B8CFF&center=true&vCenter=true&width=680&lines=Learning+Python+and+Data+Science;Exploring+Artificial+Intelligence;Building+practical+software+projects;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Animated introduction"/>
+
+<p>
+  <a href="https://ub-veyro.github.io/Portfolio-/"><img src="https://img.shields.io/badge/Portfolio-Visit-7657FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/UB-VEYRO"><img src="https://img.shields.io/badge/GitHub-UB--VEYRO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/uday-behra-09014b256/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UB-VEYRO&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/UB-VEYRO?label=Followers&style=flat&color=blue" alt="GitHub Followers"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=UB-VEYRO&style=flat-square&color=7657FF&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/UB-VEYRO?style=flat-square&color=2F81F7&label=Followers" alt="GitHub followers"/>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Bachelor of Computer Applications (BCA) student with a strong interest in software development, Python programming, Data Science, and Artificial Intelligence & Machine Learning.
+I'm a Bachelor of Computer Applications (BCA) student interested in software development, Python programming, Data Science, and Artificial Intelligence & Machine Learning. I enjoy turning ideas into practical projects, exploring new technologies, and improving my problem-solving skills through hands-on learning.
 
-I enjoy transforming ideas into practical projects, exploring emerging technologies, and continuously improving my technical skills.
-
-- 🎓 **Education:** Bachelor of Computer Applications (BCA), 2024–2027
-- 💻 **Development:** Software Development & Web Technologies
+- 🎓 **Education:** BCA (2024–2027)
 - 🐍 **Programming:** Python, C++, C#, JavaScript
-- 🤖 **Career Focus:** Data Science, AI & Machine Learning
-- 📊 **Data Science:** NumPy, Pandas, Matplotlib, Scikit-learn
-- 🧠 **Problem Solving:** Data Structures & Algorithms
-- 🔧 **Tools:** Git, GitHub, VS Code, Visual Studio, Jupyter Notebook
-- 🌱 **Mindset:** Learning something new and building something better every day.
+- 🤖 **Career interests:** Data Science, AI & Machine Learning
+- 🌐 **Development:** Web technologies and software applications
+- 📊 **Data tools:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+- 🧠 **Foundations:** Data Structures, Algorithms, Statistics
+- 🛠️ **Tools:** Git, GitHub, VS Code, Visual Studio, Jupyter Notebook
+- 🌱 **Approach:** Learn by building, experiment often, and keep improving.
+
+## ⚡ At a Glance
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Developer
+Building practical applications and exploring software engineering.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Explorer
+Learning how AI and Machine Learning can solve real problems.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data Science
+Working with data, analysis, and visualization tools.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 Open Source
+Using Git and GitHub while learning collaborative development.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack & Technologies
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+**Programming languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,js&theme=dark" alt="Python, C++, C sharp and JavaScript"/>
 </p>
 
-### 🌐 Web Development
+**Web development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,flask,dotnet" alt="Web Development"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,flask,dotnet&theme=dark" alt="HTML, CSS, JavaScript, Flask and .NET"/>
 </p>
 
-### 🤖 Data Science & AI/ML
+**Data Science & AI/ML**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn" alt="Data Science"/>
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn&theme=dark" alt="Python, NumPy, Pandas and Scikit-learn"/>
+  <br/>
+  <sub>Also exploring Matplotlib, Seaborn, statistics and Machine Learning workflows.</sub>
 </p>
 
-### 🗄️ Database & Developer Tools
+**Database & developer tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mssql,git,github,vscode,visualstudio,jupyter" alt="Developer Tools"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mssql,git,github,vscode,visualstudio,jupyter&theme=dark" alt="SQL, Git, GitHub, VS Code, Visual Studio and Jupyter"/>
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 🤖 1. AI Chatbot
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A web-based AI chatbot application built with a modern frontend and Python/Flask backend.
+### 🤖 AI Chatbot
+A web-based chatbot project with a modern frontend and Python/Flask backend.
 
-**Key Technologies:** Python • Flask • HTML • CSS • JavaScript
+**Technologies:** Python · Flask · HTML · CSS · JavaScript
 
-### 📚 2. Library Management System
+</td>
+<td width="50%" valign="top">
 
-A complete Library Management System developed using ASP.NET and SQL Server.
+### 📚 Library Management System
+An ASP.NET application for managing books, staff, students, issue/return operations, renewals and fine calculation.
 
-**Key Features:**
-- Admin and Staff Management
-- Book Inventory Management
-- Issue and Return Management
-- Book Renewal
-- Automatic Fine Calculation
-- Student Management
+**Technologies:** C# · ASP.NET · SQL Server
 
-**Key Technologies:** C# • ASP.NET • SQL Server
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🏧 3. ATM Simulator
+### 🏧 ATM Simulator
+A C++ simulation of basic banking operations with file-based data handling.
 
-A C++ based ATM simulation application implementing basic banking operations and file handling.
+**Technologies:** C++ · File Handling
 
-**Key Features:**
-- Banking Operations
-- Balance Management
-- Transaction Processing
-- File-Based Data Storage
+</td>
+<td width="50%" valign="top">
 
-**Key Technologies:** C++ • File Handling
+### 🍹 Fruit Juice Website
+A responsive frontend website built to practise web design and development.
 
-### 🍹 4. Fruit Juice Website
+[**View live project ↗**](https://ub-veyro.github.io/fruit-juice-project/)
 
-A responsive frontend website developed to practice modern web design and frontend development.
+**Technologies:** HTML · CSS · JavaScript
 
-🔗 **[View Live Project](https://ub-dotcom.github.io/fruit-juice-project/)**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Key Technologies:** HTML • CSS • JavaScript
+### 📞 Phonebook System
+A C++ contact management project using file handling and programming logic.
 
-### 📞 5. Phonebook System
+**Technologies:** C++ · File Handling
 
-A C++ based contact management application developed using file handling and programming logic.
+</td>
+<td width="50%" valign="top">
 
-**Key Technologies:** C++ • File Handling
+### 🍱 Food Bridge
+A surplus-food redistribution platform designed to connect food providers with people and organizations that can use available food.
 
-### 🍱 6. Food Bridge
+**Focus:** Web Development · Social Impact
 
-A surplus food redistribution platform designed to connect food providers with individuals and organizations that can make use of available surplus food.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Project Focus:** Social Impact • Web Development • Problem Solving
+### 🎮 Snake & Ladder Game
+An interactive game project created to practise programming fundamentals and game logic.
 
-### 🎮 7. Snake & Ladder Game
+**Focus:** C++ · Game Logic
 
-An interactive game project developed to practice programming fundamentals, game logic, and application development.
+</td>
+<td width="50%" valign="top">
 
-**Project Focus:** Programming Logic • Game Development
+### 🪵 Wooden Scroll Saw Machine
+A college engineering project involving the design and construction of a functional wooden scroll saw machine.
 
-### 🪵 8. Wooden Scroll Saw Machine
+**Focus:** Mechanical Design · Engineering
 
-A practical college engineering project involving the design and construction of a functional wooden scroll saw machine.
+</td>
+</tr>
+</table>
 
-**Project Focus:** Mechanical Design • Engineering • Practical Implementation
+<p align="center">
+  <a href="https://github.com/UB-VEYRO?tab=repositories"><img src="https://img.shields.io/badge/Explore%20All%20Repositories-7657FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
+</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=UB-VEYRO&show_icons=true&theme=tokyonight&hide_border=true" alt="Uday's GitHub Statistics"/>
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=UB-VEYRO&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Programming Languages"/>
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=UB-VEYRO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Uday's GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UB-VEYRO&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+<br/>
+
+<img width="60%" src="https://streak-stats.demolab.com?user=UB-VEYRO&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=UB-VEYRO&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub profile trophies"/>
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UB-VEYRO&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/UB-VEYRO/UB-VEYRO/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+</div>
 
 ---
 
 ## 🎯 Currently Learning
 
-| Area | Learning Focus |
-|---|---|
-| 🐍 Python | Advanced Python Programming |
-| 📊 Data Science | NumPy, Pandas, Data Analysis |
-| 📈 Visualization | Matplotlib, Seaborn |
-| 🤖 Machine Learning | ML Algorithms and Model Building |
-| 🧠 Mathematics | Statistics and Probability |
-| 💻 DSA | Data Structures and Algorithms |
-| 🗄️ Database | SQL and Database Management |
-| 🚀 AI Development | Practical AI Applications |
+- [x] Python fundamentals
+- [x] NumPy and Pandas basics
+- [ ] Advanced Python programming
+- [ ] Data analysis and visualization
+- [ ] Statistics and probability
+- [ ] Machine Learning algorithms
+- [ ] Data Structures & Algorithms
+- [ ] Advanced SQL
+- [ ] AI application development
 
----
+## 🎯 Goals
 
-## 💡 My Goals
-
-- Build real-world Data Science and AI/ML projects.
-- Improve my Python programming skills.
-- Develop a strong foundation in Machine Learning.
-- Strengthen problem-solving and DSA skills.
+- Build practical Data Science and AI/ML projects.
+- Strengthen Python, statistics, and problem-solving skills.
+- Learn to build, evaluate, and improve Machine Learning models.
 - Contribute to open-source projects.
-- Secure opportunities in Data Science and AI/ML.
+- Prepare for internships and career opportunities in Data Science / AI.
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://ub-veyro.github.io/Portfolio-/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/UB-VEYRO">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/uday-behra-09014b256/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://ub-veyro.github.io/Portfolio-/"><img src="https://img.shields.io/badge/Portfolio-7657FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/UB-VEYRO"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/uday-behra-09014b256/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+</div>
 
 ---
 
-## ⚡ Beyond Coding
+<div align="center">
 
-I believe technology is not just about writing code; it's about solving problems, creating opportunities, and making useful things.
+### 💡 BUILD. LEARN. INNOVATE. EVOLVE.
 
-I enjoy:
-- 🚀 Exploring new technologies.
-- 💡 Experimenting with innovative ideas.
-- 🧩 Solving programming challenges.
-- 🛠️ Building practical applications.
-- 📚 Learning and sharing knowledge.
+*“Great things are built one line of code at a time.”*
 
----
+**UDAY BEHRA · UB-VEYRO**
 
-<h3 align="center">💻 Learn. Build. Innovate. Repeat.</h3>
+<sub>Thanks for visiting my profile. Keep learning, keep building. 🚀</sub>
 
-<p align="center">
-  <i>"Great things are built one line of code at a time."</i>
-  <br/><br/>
-  <b>UDAY BEHRA | UB-VEYRO</b>
-  <br/>
-  <sub>Building the future, one project at a time. 🚀</sub>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:703BCE,50:142A55,100:080B18&height=110&section=footer" width="100%" alt="Profile footer"/>
+
+</div>
